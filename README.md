@@ -4,7 +4,7 @@ This project aims to develop a Spanish song recommendation system based on song 
 
 # Features
 
-- Downloading dataset of Spanish song lyrics.
+- Downloading dataset of Spanish song lyrics: https://www.kaggle.com/datasets/josshhh/spotify-songs-with-soundcloud-links
 - Data preprocessing: tokenization, stop word removal, text normalization.
 - Feature extraction using TF-IDF.
 - Application of clustering algorithm (K-Means) to group songs.
